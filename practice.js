@@ -176,7 +176,14 @@ methodCollection.logHello()
 
 //Code Here
 
-
+function makePerson(name, birthday, ssn){
+  let person = {
+    name: name,
+    birthday: birthday,
+    ssn: ssn
+  }
+  return person
+}
 
 ////////// PROBLEM 7 //////////
 
