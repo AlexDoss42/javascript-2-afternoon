@@ -194,4 +194,11 @@ function makePerson(name, birthday, ssn){
 
 //Code Here
 
-
+function makeCard(cardNumber, expirationDate, securityCode){
+  let creditCard = {
+    cNum: cardNumber,
+    exDate: expirationDate,
+    securityCode: securityCode
+  }
+  return creditCard
+}
