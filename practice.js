@@ -76,7 +76,7 @@ favoriteThings.book = 'Harry Potter'
 let backPack = {}
 
 let item = 'firstPocket'
-backPack.item = 'chapstick'
+backPack[item] = 'chapstick'
 backPack.color = 'green'
 
 
