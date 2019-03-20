@@ -33,7 +33,14 @@ alert(me.name);
 
 //Code here
 
-
+let favoriteThings = {
+  band: 'Midland',
+  food: 'Tacos',
+  person: 'Taika Waititi',
+  book: 'The Score Takes Care of Itself',
+  movie: 'The Dark Knight',
+  holiday: 'Thanksgiving'
+}
 
 /*
   After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
