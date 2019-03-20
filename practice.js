@@ -73,6 +73,10 @@ favoriteThings.book = 'Harry Potter'
 
 //Code here
 
+let backPack = {}
+
+let item = 'firstPocket'
+backPack.firstPocket = item
 
 
 /*
@@ -81,7 +85,7 @@ favoriteThings.book = 'Harry Potter'
 
 //Code here
 
-
+alert(backPack)
 
 /*
 You probably noticed that it just alerted [object Object].
@@ -91,7 +95,7 @@ Instead, console.log your whole backPack object and then check out the console.
 
 //Code here
 
-
+console.log(backPack)
 
 ////////// PROBLEM 4 //////////
 
