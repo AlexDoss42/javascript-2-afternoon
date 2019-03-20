@@ -119,8 +119,8 @@ var user2 = {
 
 //Code Here
 
-user2.name = 'Tyler S. McGinnis'
-user2.email = 'Tyler.mcginnis@devmounta.in'
+user2['name'] = 'Tyler S. McGinnis'
+user2['email'] = 'tyler.mcginnis@devmounta.in'
 
 
 
