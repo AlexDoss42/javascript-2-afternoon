@@ -48,6 +48,8 @@ let favoriteThings = {
 
 //Code here
 
+favoriteThings.car = 'The White Stallion'
+favoriteThings.brand = 'Nike'
 
 
 /*
@@ -56,7 +58,8 @@ let favoriteThings = {
 
 //Code here
 
-
+favoriteThings.food = 'Chicken Nuggets'
+favoriteThings.book = 'Harry Potter'
 
 ////////// PROBLEM 3 //////////
 
