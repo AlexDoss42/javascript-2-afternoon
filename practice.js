@@ -76,7 +76,8 @@ favoriteThings.book = 'Harry Potter'
 let backPack = {}
 
 let item = 'firstPocket'
-backPack.firstPocket = item
+backPack.item = 'chapstick'
+backPack.color = 'green'
 
 
 /*
@@ -118,7 +119,8 @@ var user2 = {
 
 //Code Here
 
-
+user2.name = 'Tyler S. McGinnis'
+user2.email = 'Tyler.mcginnis@devmounta.in'
 
 
 
